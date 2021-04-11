@@ -2,7 +2,7 @@
 name = "poet-00"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Keith Hazelton <khazelton@gmail.com>"]
 license = "apache 2"
 
 [tool.poetry.dependencies]
